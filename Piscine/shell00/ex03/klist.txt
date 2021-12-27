@@ -1,0 +1,5 @@
+Credentials cache: API:FC1AF052-967B-4E42-B9E7-EF26668554BD
+        Principal: msevuk@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 14:25:58 2021  Nov 25 00:25:58 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
