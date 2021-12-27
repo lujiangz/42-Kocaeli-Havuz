@@ -30,7 +30,7 @@ Bu şekilde oturum açmış olacaksınız.
 
 	cheatsheet klasöründe ki pdf'ler işinizi hızlandıracaktır.
 	
-	[İşinize yarayacak diğer ipuçları](https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-training/)
+	İşinize yarayacak diğer ipuçları = (https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-training/)
 
     
 
